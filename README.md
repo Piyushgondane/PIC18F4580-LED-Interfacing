@@ -23,3 +23,9 @@ This project demonstrates sequential control of three LEDs using the PIC18F4580 
 - Software delay implementation
 - Microcontroller programming and simulation
 
+
+## Proteus Simulation
+
+The circuit below shows the PIC18F4580 interfaced with three LEDs.
+
+![PIC18F4580 Three LED Simulation](Screenshot%202026-10-15%20195257.png)
